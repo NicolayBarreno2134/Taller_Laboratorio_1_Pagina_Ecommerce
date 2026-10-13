@@ -26,3 +26,6 @@ El proyecto simula la pantalla de un visor inteligente. Al abrirlo, el sistema s
 
 * Requiere conexión a internet para poder descargar y mostrar las imágenes y precios de los productos.
 * Este proyecto fue creado con fines prácticos para demostrar cómo conectar una página web con información externa manteniendo un diseño creativo.
+
+
+<img width="1267" height="845" alt="image" src="https://github.com/user-attachments/assets/752327ee-d31b-4624-9908-49d67ad1bc1c" />
